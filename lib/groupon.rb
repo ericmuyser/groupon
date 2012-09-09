@@ -1,4 +1,5 @@
 require 'httparty'
+require 'json'
 require 'hashie'
 
 directory = File.expand_path(File.dirname(__FILE__))
