@@ -8,7 +8,7 @@ Hash.send :include, Hashie::HashExtensions
 
 module Groupon
   
-  VERSION = "0.0.1".freeze
+  VERSION = "0.0.2"
   
   # Returns a list of divisions - cities where Groupon is live.
   # @see http://sites.google.com/site/grouponapi/divisions-api  Groupon API docs
