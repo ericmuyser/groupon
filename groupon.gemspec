@@ -1,6 +1,7 @@
 require 'bundler'
 require 'bundler/version'
-require 'lib/groupon'
+require File.expand_path('../lib', 'groupon.rb')
+#require 'lib/groupon'
 
 Gem::Specification.new do |s|
   s.name = %q{groupon}
