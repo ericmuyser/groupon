@@ -1,3 +1,9 @@
+#NOTE
+
+I am currently updating this gem to work with the Groupon v2 API and addressing several issues it has with newer rubies and Rails. Don't know if anyone else needs something like this, but we at Nest4Less do, so it is on the burner. Contact me with any questions, requests, or such. 
+
+—Mark Coates (mark@nest4less.com)
+
 # Groupon
 
 Simple Ruby wrapper for the Groupon [API](http://sites.google.com/site/grouponapi/home). [Groupon](http://groupon.com) features the best deals and stuff to do in a growing number of major cities.
