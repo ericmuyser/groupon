@@ -1,6 +1,6 @@
 require 'bundler'
 require 'bundler/version'
-require 'groupon'
+require 'lib/groupon'
 
 Gem::Specification.new do |s|
   s.name = %q{groupon}
